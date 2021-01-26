@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="761035e9-6db3-4da3-b296-5204222adaa3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.code.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.writing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/.jdk8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/src/main/java/hello/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/complete/src/test/java/hello/HelloWorldConfigurationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/run.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ncBiisR6E0TzWpcJSRmDFwB3Uk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="761035e9-6db3-4da3-b296-5204222adaa3" name="Default Changelist" comment="" />
+      <created>1611679627390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611679627390</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,4 +1,0 @@
-rootProject.name = 'inital'
-include ('clientApplication', 'authorizationServer', 'resourseServer', 'zipkin-stream-module', 'hystrixDashboard')
-
-
